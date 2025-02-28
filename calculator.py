@@ -10,7 +10,7 @@ def multiply(x,y):
 #division method
 def division(x,y):
     return x/y
-#Priomping the options
+#Prompting the options
 print("Select operation.")
 print("1->Add")
 print("2->Subtract")
